@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samarth Mahadik</h1>
-<h3 align="center">Aspiring Data Analyst | Python, SQL, Power BI Enthusiast | Transforming Data Into Insights</h3>
+<h3 align="center">Aspiring Data Analyst | Python, Ms-Excel, SQL, Power BI Enthusiast | Transforming Data Into Insights</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarth0101&label=Profile%20views&color=0e75b6&style=flat" alt="samarth0101" /> </p>
 
