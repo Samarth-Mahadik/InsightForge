@@ -5,7 +5,29 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarth0101" alt="samarth0101" /></a> </p>
 
-- 🌱 I’m currently learning **Currently mastering Excel from basic to advanced level, building real-world projects to enhance data analysis and visualization skills.**
+- **I'm thrilled to share my latest project—a realistic AWS Sales Dashboard created entirely in Excel! 🎉**
+
+📊 This dashboard provides:
+
+📈 Real-time insights into sales performance.
+🌍 Geographical sales trends for better decision-making.
+📦 Product category analysis to identify top-performing products.
+🔎 Interactive filters and slicers for a seamless user experience.
+
+💡 Skills demonstrated:
+
+✅ Advanced Excel functions (SUMIFS, VLOOKUP, INDEX-MATCH)
+✅ Pivot Tables & Charts for dynamic reporting
+✅ Slicers for interactivity
+✅ Data visualization and storytelling
+
+💼 Why this matters:
+In today's data-driven world, dashboards like these empower businesses to make informed decisions, optimize sales strategies, and drive growth.
+
+🔧 Techniques used:
+Data cleaning and transformation
+Dynamic visualizations
+Analytical insights to highlight sales opportunities**
 
 - 📫 How to reach me **samarthmahadik71@gmail.com**
 
