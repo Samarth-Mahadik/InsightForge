@@ -11,9 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/samarthmahadik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="https://github.com/samarth0101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="github" height="30" width="30" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/samarth-mahadik-8a7965339/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
 
 <h3 align="left">Languages, Tools & Cloud:</h3>
 <p align="left"> 
