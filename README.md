@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS, Linux, Cloud Computing, and DevOps**, completing daily hands-on tasks and projects to build practical cloud expertise.  
 - 💼 I am also enhancing my **Data Analysis skills** with Python, SQL, Excel, Power BI, and real-world projects.  
-- 📫 How to reach me: **samarthmahadik71@gmail.com**
+- 📫 How to reach me: **samarthmahadik176@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
